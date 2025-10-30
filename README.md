@@ -1,4 +1,6 @@
-# CertiChain - Blockchain Certificate Verification System
+"Decentralized Resume Verification using Blockchain”
+
+
 
 A modern, decentralized platform for secure certificate verification using blockchain technology. Built with React, TypeScript, Tailwind CSS, and Ethereum smart contracts.
 
